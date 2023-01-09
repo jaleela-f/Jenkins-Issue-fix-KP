@@ -1,0 +1,21 @@
+# VIM
+*~
+
+# MVN target
+target/
+
+.settings/
+
+.classpath
+
+.vscode/settings.json
+.vscode/tasks.json
+.factorypath
+.DS_Store
+.factorypath
+bin/
+.factorypath
+.factorypath
+.factorypath
+release.properties
+release.properties
